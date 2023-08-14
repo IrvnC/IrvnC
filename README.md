@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on all interesting project
 - 📫 How to reach me, please visit my linkedin [here](https://www.linkedin.com/in/irvn-fortuna/)
 
+<br><br>
+[![Irvan Fortuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrvnC)](https://github.com/IrvnC/github-readme-stats)
 
 <!--
 **IrvnC/IrvnC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
