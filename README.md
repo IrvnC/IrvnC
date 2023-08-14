@@ -1,6 +1,6 @@
 ### Hi there 👋, Im [Irvan Cahaya Putra]()-<br>
 
-- ⚡ I'm interested on Data and Mathematic especially Data Science
+- ⚡ I'm interested on Data, Mathematic, and AI, especially Data Science
 - 🌱 I’m currently learning all new interesting things especially in Intelligent System
 - 👯 I’m looking to collaborate on all interesting project
 - 📫 How to reach me, please visit my linkedin [here](https://www.linkedin.com/in/irvn-fortuna/)
