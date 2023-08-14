@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on all interesting project
 - 📫 How to reach me, please visit my linkedin [here](https://www.linkedin.com/in/irvn-fortuna/)
 
-<br><br>
 [![Irvan Fortuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrvnC&show_icons=true&theme=outrun)](https://github.com/IrvnC/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrvnC&layout=donut&theme=outrun)](https://github.com/IrvnC/github-readme-stats)
 
