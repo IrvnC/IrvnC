@@ -7,7 +7,12 @@
 
 <br><br>
 [![Irvan Fortuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrvnC&show_icons=true&theme=outrun)](https://github.com/IrvnC/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrvnC&layout=donut)](https://github.com/IrvnC/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrvnC&layout=donut&theme=outrun)](https://github.com/IrvnC/github-readme-stats)
+
+
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IrvnC&repo=IrvnC)](https://github.com/IrvnC/github-readme-stats)-->
+
 
 <!--
 **IrvnC/IrvnC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
